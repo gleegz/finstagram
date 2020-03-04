@@ -15,3 +15,12 @@ main {
 .finstagram-post .user-info img {
   border-radius: 65%;
 }
+body {
+    font-family: 'Nunito', sans-serif;
+}
+a.photo {
+    transition: padding 0.5s;
+     }
+ a.photo:hover{
+    padding: 10px;
+  }
